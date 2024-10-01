@@ -3,19 +3,21 @@
 
 def funcao_principal():
 
-    numero = 1
-    while numero <= 10:
-        arquivo = open("aula06/tabuada1a10-.txt", "a")
-        arquivo.write(f'Tabuada de {numero}\n')
-        
-        # Loop para automatizar as multiplicações de 1 a 10
-        for i in range(1, 11):
-            arquivo.write(f'{numero} * {i} = {numero * i}\n')
-        
-        arquivo.write('\n')  # Adiciona uma linha em branco entre as tabuadas
-        
-        numero += 1  # Incrementa o número para evitar loop infinito
-        arquivo.close()
+    soma_notas = 0
+    contador = 0
+    
+    nota = float(input("Digite uma nota válida entre 0 e 10 (digite -1 quando não tiver mais notas e use ponto para decimais): "))
+    
+    while nota != -1:
+        soma_notas += nota
+        contador += 1
+        nota = float(input("Digite uma nota válida entre 0 e 10 (digite -1 quando não tiver mais notas e use ponto para decimais): "))
+
+    if contador > 0:
+        media = soma_notas / contador
+        print(f"A média das notas é: {media:.2f}")
+    else:
+        print("Nenhuma nota válida foi inserida.")
 
 if __name__ == '__main__':
 
