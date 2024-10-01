@@ -1,0 +1,1 @@
+# Modifique sua lista, substitua os desistentes por novos convidados.
