@@ -1,0 +1,41 @@
+ID 145: Sempre o burrito.
+ID 131: YOLO
+ID 26: Não atravesse os riachos.
+ID 180: Nunca se arrependa. Se for bom, é maravilhoso. Se for ruim, é experiência.
+ID 215: Quando você encontrar um amigo realmente bom, não faça nada que possa prejudicar sua amizade.
+ID 134: A pessoa que nunca cometeu um erro nunca fez nada.
+ID 222: Respeite as opiniões das outras pessoas, mesmo quando elas diferem da sua.
+ID 101: Sempre faça qualquer coisa por amor, mas não faça isso.
+ID 20: Não adie terminar com alguém quando você sabe que quer. Prolongar a situação só piora.
+ID 32: Tudo com moderação, inclusive a própria moderação.
+ID 202: Nunca desperdice uma oportunidade de dizer a alguém que você o ama.
+ID 129: Pare de procrastinar.
+ID 31: Nunca deixe sua mãe cortar seu cabelo.
+ID 17: Às vezes é melhor ignorar os conselhos de outras pessoas.
+ID 93: Quanto mais alto você estiver na empresa, maior a probabilidade de seu chefe ser um psicopata.
+ID 144: Pedantismo é bom, a menos que você esteja no lado receptor. E não seja um pedante.
+ID 73: Coma comida. Não muita, principalmente plantas.
+ID 144: Pedantismo é bom, a menos que você esteja no lado receptor. E não seja um pedante.
+ID 78: Ser gentil é mais gratificante do que estar certo.
+ID 221: Compartilhe energia positiva.
+ID 179: Nunca se arrependa. Se for bom, é maravilhoso. Se for ruim, é experiência.
+ID 204: As melhores saídas à noite são quando as pessoas ao seu redor estão simplesmente se divertindo.
+ID 183: Peça sempre duas sidras.
+ID 210: Você nunca cresce de verdade.
+ID 83: Coloque um pedaço de papel-toalha junto com o saco de folhas para que elas durem mais.
+ID 86: Nunca escreva em um e-mail para alguém algo que você não diria na cara dessa pessoa.
+ID 127: Ao abraçar, abrace com ambos os braços e aplique uma pressão razoável e afetuosa.
+ID 94: Às vezes, você só precisa pedir desculpas. Mesmo que não seja sua culpa.
+ID 221: Compartilhe energia positiva.
+ID 109: Para remover a semente de um abacate, coloque uma faca firmemente sobre ele e torça.
+ID 79: Só porque você está ofendido, não significa que você esteja certo.
+ID 46: Tente ir sem camisa para uma reunião importante. NB: não use saia.
+ID 30: Em caso de dúvida, dê o próximo pequeno passo.
+ID 180: Nunca se arrependa. Se for bom, é maravilhoso. Se for ruim, é experiência.
+ID 149: À medida que as coisas se aproximam da luz, as sombras ficam mais escuras.
+ID 140: Se seu cabelo estiver ficando ralo, tente tingi-lo de um tom parecido com o do seu couro cabeludo.
+ID 174: Seja um bom amante.
+ID 153: Tente usar uma ideia antiga.
+ID 216: Tente fazer uma lista.
+ID 102: Diga as coisas como elas são.
+ID 56: Tente fazer coisas das quais você é incapaz.
